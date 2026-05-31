@@ -1,4 +1,4 @@
-# Spotify-Data-Analysis-
+# Spotify-Data-Analysis
 
 # Spotify Advanced SQL Project and Query Optimization
 Project Category: Advanced
